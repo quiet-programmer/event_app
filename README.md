@@ -1,4 +1,4 @@
-## Event App
+## Event App Design
 
 This is just a demo application, and I may start wroking on it to give it more functionality, but for now this is just a design.
 
