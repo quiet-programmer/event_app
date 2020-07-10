@@ -1,15 +1,20 @@
-# event_app
+## Event App
 
-A new Flutter project.
+This is just a demo application, and I may start wroking on it to give it more functionality, but for now this is just a design.
+
+## Plugin Used
+<p>1. Bottom Navy Bar </p>
+<p>2. Date Picker Timeline </p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src='https://github.com/quiet-programmer/event_app/blob/master/ss/screen.jpg' width='300' height='700'></td>
+     </tr>
+  </tbody>
+</table>
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
